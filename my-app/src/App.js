@@ -4,7 +4,6 @@ import './App.css';
 import { CreateReactComponent } from "./home-task-1/create-react-component";
 import { CreateReactPureComponent } from "./home-task-1/create-pure-react-component";
 
-
 function App() {
   return (
     <div className="App">
