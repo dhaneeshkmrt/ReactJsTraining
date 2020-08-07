@@ -13,7 +13,6 @@ function App() {
         <p>Hello from Function Component</p>
         <p><CreateReactComponent /></p>
         <p><CreateReactPureComponent /></p>
-
       </header>
     </div>
   );
