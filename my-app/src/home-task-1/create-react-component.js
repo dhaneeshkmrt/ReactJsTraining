@@ -10,7 +10,7 @@ export class CreateReactComponent extends React.Component {
 
   render() {
     return (
-      <div> hello from {this.state.name}</div >
+      <div> hello from {this.state.name}.</div >
     )
   }
 }
