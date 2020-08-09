@@ -1,6 +1,6 @@
 import React from 'react';
 
-export class CreateReactPureComponent extends React.Component {
+export class CreateReactPureComponent extends React.PureComponent {
   constructor() {
     super();
     this.state = {
